@@ -1,6 +1,10 @@
 {
     "$schema": "node_modules/wrangler/config-schema.json",
     "name": "videofacil",
+    "compatibility_date": "2026-01-29",
     "pages_build_output_dir": "dist",
-    "compatibility_date": "2026-01-29"
+    "build": {
+        "command": "npm run build",
+        "output_dir": "dist"
+    }
 }

@@ -7,4 +7,4 @@
         "command": "npm run build",
         "output_dir": "dist"
     }
-}
+}// Trigger deploy: Thu Jan 29 15:31:23 MST 2026
